@@ -1,16 +1,18 @@
-## Hi there 👋
+# ˗ˏˋSΛMRΛJYΛˎˊ
 
-<!--
-**dev-samrajya/dev-samrajya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Journaling. 👀
 
-Here are some ideas to get you started:
+```js
+{
+  "name": "samrajya (Dev)"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'll be here 🌎:
+- X Corp's <a href="https://x.com/samrajya_dev" target="_blank"> X.com</a>
+- Meta's <a href="https://instagram.com/samrajya.dev" target="_blank">Instagram</a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-samrajya&label=Reach%20&color=0e75b6&style=bold" alt="dev-samrajya" /> </p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dev-samrajya" alt="dev-samrajya"/> </p>
